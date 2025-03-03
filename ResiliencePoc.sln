@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResiliencePoc", "Resilience
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResilienceServer", "ResilienceServer\ResilienceServer.csproj", "{7F485479-1873-4FFD-B336-B5DE88633600}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Energisa.UtResilient", "Energisa.UtResilient\Energisa.UtResilient.csproj", "{A3AD0FF7-3EBD-4BFB-A9C2-B1278FC0C217}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7F485479-1873-4FFD-B336-B5DE88633600}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F485479-1873-4FFD-B336-B5DE88633600}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F485479-1873-4FFD-B336-B5DE88633600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3AD0FF7-3EBD-4BFB-A9C2-B1278FC0C217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AD0FF7-3EBD-4BFB-A9C2-B1278FC0C217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AD0FF7-3EBD-4BFB-A9C2-B1278FC0C217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AD0FF7-3EBD-4BFB-A9C2-B1278FC0C217}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
